@@ -1,0 +1,14 @@
+{
+  "USER_NOT_FOUND": "Player not found in the system",
+  "NO_DEVICEID_FOUND": "Please provide device ID",
+  "ACCOUNT_BLOCKED": "Player's account is blocked",
+  "NO_AMOUNT_FOUND": "Please enter an amount",
+  "NO_AMOUNT_FOUND_FOR_UPDATE": "Please provide amount and id both to update",
+  "ROOM_AMOUNT_DELETE_SUCCESS": "Room amount deleted successfully",
+  "AMOUNT_ALREADY_EXIST": "Amount already exist",
+  "NO_AMOUNT_FOUND_FOR_DELETE": "No amount found for delete",
+  "NO_EMAIL_AND_PASSWORD_FOUND": "Please provide email and password",
+  "ADMIN_NOT_FOUND": "Admin not found in the system",
+  "WRONG_ADMIN_PASSWORD": "Wrong admin password",
+  "AMOUNT_NOT_FOUND": "Amount not found in the system"
+}
